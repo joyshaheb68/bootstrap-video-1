@@ -82,10 +82,3 @@ ul li a:hover {
 .adrinolinks-video {
   border: 2px dashed #eee;
 }
-.video-view-item {
-  position: relative;
-  top: 40px;
-  left: 12px;
-  font-weight: 600;
-  color: #777;
-}
